@@ -8,7 +8,7 @@ hiii, I am a high school student with a great intrest in basiclly everything com
 
 - Some things you can ask me about are: Linux, Android, Python, Unity, Blender, and more!
 
-### My stats! (i spent like 20 mins on this 😭)
+### My stats!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraslauKavaliou&show_icons=true&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
 
