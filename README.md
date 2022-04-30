@@ -22,4 +22,4 @@ hiii, I am a high school student with a great intrest in basiclly everything com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiraslauKavaliou&show_icons=true&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraslauKavaliou&layout=full&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraslauKavaliou&layout=compact&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
