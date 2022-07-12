@@ -6,8 +6,6 @@ hiii, I am a high school student with a great intrest in basiclly everything com
 ### Something you may want to know:
 - Pronouns: He/Him, They/Them
 
-- How to reach me: Discord! (Micr0byte#0001)
-
 - Some things you can ask me about are: Linux, Android, Python, Unity, Blender, and more!
 
 ### Find me on other places! 
